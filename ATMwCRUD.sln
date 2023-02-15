@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATMDAL", "ATMDAL\ATMDAL.csproj", "{B39E3DE6-BD76-4813-99E6-4236C904C00C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATMBLL", "ATMBLL\ATMBLL.csproj", "{ED50B1BD-C4E1-42DC-B20B-9DC3D9B17305}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATMUI", "ATMUI\ATMUI.csproj", "{AE22A6BB-27AA-4FD7-A49A-0A64536BE92F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATMAdminUI", "ATMAdminUI\ATMAdminUI.csproj", "{8DDF32A8-3760-4603-A185-E539C42EF1BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B39E3DE6-BD76-4813-99E6-4236C904C00C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B39E3DE6-BD76-4813-99E6-4236C904C00C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B39E3DE6-BD76-4813-99E6-4236C904C00C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B39E3DE6-BD76-4813-99E6-4236C904C00C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED50B1BD-C4E1-42DC-B20B-9DC3D9B17305}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED50B1BD-C4E1-42DC-B20B-9DC3D9B17305}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED50B1BD-C4E1-42DC-B20B-9DC3D9B17305}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED50B1BD-C4E1-42DC-B20B-9DC3D9B17305}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE22A6BB-27AA-4FD7-A49A-0A64536BE92F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE22A6BB-27AA-4FD7-A49A-0A64536BE92F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE22A6BB-27AA-4FD7-A49A-0A64536BE92F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE22A6BB-27AA-4FD7-A49A-0A64536BE92F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DDF32A8-3760-4603-A185-E539C42EF1BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DDF32A8-3760-4603-A185-E539C42EF1BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DDF32A8-3760-4603-A185-E539C42EF1BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DDF32A8-3760-4603-A185-E539C42EF1BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39887E9F-4DFB-47B6-AA49-30E3BCF8208B}
+	EndGlobalSection
+EndGlobal
